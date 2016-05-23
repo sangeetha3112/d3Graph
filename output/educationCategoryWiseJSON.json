@@ -1,0 +1,42 @@
+[
+  {
+    "eduCat": "Literate without educational level",
+    "catPopulation": 171670752
+  },
+  {
+    "eduCat": "Below Primary",
+    "catPopulation": 751691352
+  },
+  {
+    "eduCat": "Primary",
+    "catPopulation": 921147160
+  },
+  {
+    "eduCat": "Middle level",
+    "catPopulation": 660343812
+  },
+  {
+    "eduCat": "Matric/Secondary",
+    "catPopulation": 495879992
+  },
+  {
+    "eduCat": "Higher secondary/Intermediate/Pre-University/Senior secondary",
+    "catPopulation": 360639156
+  },
+  {
+    "eduCat": "Non-technical diploma or certificate not equal to degree",
+    "catPopulation": 4651712
+  },
+  {
+    "eduCat": "Technical diploma or certificate not equal to degree",
+    "catPopulation": 33160332
+  },
+  {
+    "eduCat": "Graduate & above",
+    "catPopulation": 302381308
+  },
+  {
+    "eduCat": "Unclassified",
+    "catPopulation": 15091552
+  }
+]
